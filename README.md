@@ -1,4 +1,5 @@
 # OSSPproj_practice
 
 Hello World!
-수정 추가
+\n 수정 추가 for pull
+\n 수정 추가 for fetch & merge
